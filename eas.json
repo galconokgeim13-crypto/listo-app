@@ -1,8 +1,24 @@
 {
-  "build": {
-    "apk": {
-      "android": {
-        "buildType": "apk"
+  "expo": {
+    "name": "Listo",
+    "slug": "listo-pdo2afna3h1mjpejeey5s",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.galinageim.listo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cd98278b-39ad-40a3-b44f-e92a63aa6194"
       }
     }
   }
