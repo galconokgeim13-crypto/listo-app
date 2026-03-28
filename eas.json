@@ -3,6 +3,9 @@
     "apk": {
       "android": {
         "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_CLEAN": "true"
       }
     }
   }
