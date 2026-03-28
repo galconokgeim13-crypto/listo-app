@@ -1,9 +1,12 @@
 {
-  "build": {
-    "apk": {
-      "android": {
-        "buildType": "apk"
-      }
+  "expo": {
+    "name": "Listo",
+    "slug": "listo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.galinageim.listo"
     }
   }
 }
