@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "listo",
+    "slug": "snack-a74a7f11-b29d-4521-9c6f-b73b94d35e93",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Добавляй продукты за секунды, отмечая купленное и держи всё под контролем.\nМинимальный дизайн, быстрое реагирование и только нужные функции — без лишнего."
+  }
+}
