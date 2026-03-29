@@ -5,7 +5,7 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_PUBLIC_CLEAN": "true"
+        "EAS_BUILD_CLEAN_CACHE": "1"
       }
     }
   }
