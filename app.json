@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Listo",
-    "slug": "listo-pdo2afna3h1mjpejeey5s",
+    "slug": "listo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,8 +11,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.galinageim.listo",
-      "permissions": ["RECORD_AUDIO"]
+      "package": "com.galinageim.listo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
